@@ -4,6 +4,14 @@ All notable changes to `phil/directory-bundle` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) principles.
 
+## 0.1.2-alpha - 2026-11-18
+
+The next version is 0.1.2-alpha.
+
+### Changed
+
+- `phil/content-bundle` 0.3 is accepted beside 0.1 and 0.2.
+
 ## 0.1.1-alpha - 2026-11-17
 
 ### Changed
