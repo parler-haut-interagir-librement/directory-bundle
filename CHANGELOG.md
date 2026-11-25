@@ -4,6 +4,17 @@ All notable changes to `phil/directory-bundle` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) principles.
 
+## 0.2.1-alpha - 2026-11-25
+
+### Changed
+
+- Requires the latest minor of each dependency (`doctrine/orm` 3.8, `doctrine/dbal` 4.6, `twig/twig` 3.31,
+  `phil/content-bundle` 0.3), and of each development requirement (`doctrine/doctrine-bundle` 3.4).
+
+### Security
+
+- Requires `twig/twig` 3.31.1 or later, which fixes the advisories of its sandbox published on 2026-11-24.
+
 ## 0.2.0-alpha - 2026-11-20
 
 The genre and the author of a listing, and who wrote a version, compare byte by byte
