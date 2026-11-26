@@ -4,6 +4,13 @@ All notable changes to `phil/directory-bundle` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) principles.
 
+## 0.2.2-alpha - 2026-11-26
+
+### Changed
+
+- Accepts `phil/ddd-bundle` 0.2 as well as 0.1 (`^0.1@dev || ^0.2@dev`), so that it installs beside the typed identifiers in
+  controllers and the Serializer.
+
 ## 0.2.1-alpha - 2026-11-25
 
 ### Changed
